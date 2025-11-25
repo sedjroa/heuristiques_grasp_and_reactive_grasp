@@ -48,6 +48,6 @@ Pour exécuter les expérimentations (GRASP et ReactiveGRASP) sur toutes les ins
 exécutez le script principal :
 
 ```bash
-julia>  include("livrableEI1.jl")
+julia>  include("livrableEI2.jl")
 julia>  experimentationSPP()
 ```
